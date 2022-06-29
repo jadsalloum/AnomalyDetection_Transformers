@@ -128,5 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-output/HDFS
-Datasets
+
+Datasets/HDFS/HDFS*.log
+Datasets/HDFS/anomaly_label.csv
+Datasets/Sentiment
+Datasets/glove840b300dtxt
+
